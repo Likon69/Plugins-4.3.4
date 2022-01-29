@@ -1,0 +1,5 @@
+C:\Users\Allen\Desktop\Honrbuddy\Plugins\Jumpy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Allen\Desktop\Honrbuddy\Plugins\Jumpy\obj\x86\Debug\Jumpy.JumpyWindow.resources
+C:\Users\Allen\Desktop\Honrbuddy\Plugins\Jumpy\obj\x86\Debug\Jumpy.Properties.Resources.resources
+C:\Users\Allen\Desktop\Honrbuddy\Plugins\Jumpy\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Allen\Desktop\Honrbuddy\Plugins\Jumpy\obj\x86\Debug\ResGen.write.1.tlog

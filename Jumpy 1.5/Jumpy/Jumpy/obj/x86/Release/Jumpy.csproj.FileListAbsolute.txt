@@ -1,0 +1,11 @@
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\obj\x86\Release\Jumpy.JumpyWindow.resources
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\obj\x86\Release\Jumpy.Properties.Resources.resources
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\bin\Release\Routines\Chaos.jump
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\bin\Release\Routines\Default.jump
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\bin\Release\Jumpy.dll
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\bin\Release\Jumpy.pdb
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\obj\x86\Release\Jumpy.dll
+C:\Users\Allen\Documents\Visual Studio 2010\Projects\Jumpy\Jumpy\Jumpy\obj\x86\Release\Jumpy.pdb

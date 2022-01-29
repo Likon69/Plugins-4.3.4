@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jumpy>
+  <RandMountJumpSpan>100</RandMountJumpSpan>
+  <BaseMountJumpSpan>900</BaseMountJumpSpan>
+  <RandWalkJumpSpan>100</RandWalkJumpSpan>
+  <BaseWalkJumpSpan>850</BaseWalkJumpSpan>
+  <UsePlayerRange>false</UsePlayerRange>
+  <CombatRoutines>
+    <Item>Chaos</Item>
+    <Item>Default</Item>
+  </CombatRoutines>
+  <MountedRoutines>
+    <Item>Chaos</Item>
+    <Item>Default</Item>
+  </MountedRoutines>
+  <WalkingRoutines>
+    <Item>Chaos</Item>
+    <Item>Default</Item>
+  </WalkingRoutines>
+  <PlayerRange>100</PlayerRange>
+  <StandJumpInCombat>false</StandJumpInCombat>
+  <StandJumpOutCombat>false</StandJumpOutCombat>
+</Jumpy>
