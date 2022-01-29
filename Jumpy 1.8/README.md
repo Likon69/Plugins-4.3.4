@@ -1,5 +1,5 @@
-##This version I found in the comments on the official forum. It was made for MoP. 
-##I modify it so that the API correspond to that of cataclysm.
+## This version I found in the comments on the official forum. It was made for MoP. 
+## I modify it so that the API correspond to that of cataclysm.
 
 If you try to compile with Honorbuddy. You would have this error.
 
